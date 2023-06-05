@@ -8,7 +8,5 @@ public class HW_LeapYear_graham.hill
      Scanner keyboard = new Scanner(System.in);
      System.out.print("Enter a year: ");
      year = keyboard.nextInt();
-     
-     boolean leapYear = 
    }
 }
